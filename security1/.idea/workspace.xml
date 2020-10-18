@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce2fb7bf-8f71-4f66-8659-b916fc988241" name="Default Changelist" comment="zmiany ostatnie w reporyzotium 1">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa-Spring/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa-Spring/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tarr2019java6-design-pattern" beforeDir="false" afterPath="$PROJECT_DIR$/../tarr2019java6-design-pattern" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="security1/invalid/Spring" />
+    </ignored-facets>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\dkini\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iP77fz74tVnpC1BlS5Eg2bAi5n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dkini\Desktop\git\security1\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Security1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="security1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.security1.Security1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <alternative-path path="14" alternative-path-enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce2fb7bf-8f71-4f66-8659-b916fc988241" name="Default Changelist" comment="" />
+      <created>1601797210314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601797210314</updated>
+      <workItem from="1601797211417" duration="2088000" />
+      <workItem from="1601799405952" duration="2256000" />
+      <workItem from="1601801879083" duration="2856000" />
+      <workItem from="1601804834560" duration="314000" />
+      <workItem from="1601809500989" duration="973000" />
+      <workItem from="1601811285882" duration="423000" />
+      <workItem from="1601814055431" duration="871000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="nowy projekt 401" />
+    <option name="LAST_COMMIT_MESSAGE" value="nowy projekt 401" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="255" key="#Notifications" timestamp="1601807436098">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="552" y="255" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1601807436098" />
+    <state x="392" y="72" key="#Plugins" timestamp="1601805859015">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="72" key="#Plugins/0.0.1600.860@0.0.1600.860" timestamp="1601805859015" />
+    <state x="280" y="4" key="#Project_Structure" timestamp="1601810965473">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="4" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1601810965473" />
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601806001995">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1601806001995" />
+    <state x="605" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1601798697504">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1601798697504" />
+    <state x="529" y="221" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601808017389">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="529" y="221" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1601808017389" />
+    <state x="585" y="122" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1601808947320">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="585" y="122" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1600.860@0.0.1600.860" timestamp="1601808947320" />
+    <state x="425" y="26" key="CommitChangelistDialog2" timestamp="1601803447562">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="425" y="26" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1601803447562" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1601814942720">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1601814942720" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1601804764703">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601804764703" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1601804764702">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601804764702" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1601804764702">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601804764702" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1601804764703">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601804764703" />
+    <state width="1557" height="222" key="GridCell.Tab.1.bottom" timestamp="1601804764704">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601804764704" />
+    <state width="1557" height="222" key="GridCell.Tab.1.center" timestamp="1601804764703">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1601804764703" />
+    <state width="1557" height="222" key="GridCell.Tab.1.left" timestamp="1601804764703">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1601804764703" />
+    <state width="1557" height="222" key="GridCell.Tab.1.right" timestamp="1601804764703">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1601804764703" />
+    <state x="648" y="150" key="RollbackChangesDialog" timestamp="1601804243623">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="648" y="150" key="RollbackChangesDialog/0.0.1600.860@0.0.1600.860" timestamp="1601804243623" />
+    <state x="301" y="9" key="SettingsEditor" timestamp="1601811244046">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="9" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1601811244046" />
+    <state x="456" y="198" width="672" height="677" key="run.anything.popup" timestamp="1601806017851">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="198" width="672" height="677" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1601806017851" />
+  </component>
+</project>

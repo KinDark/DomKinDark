@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f70112e2-a20b-4a07-aecd-b742063e74d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/myproject/MetodyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/myproject/Młotek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/myproject/interfejsy/InterfejsyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/myproject/interfejsy/McDonald.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/myproject/interfejsy/PlazaMcDonaldImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/myproject/interfejsy/RynekMcDonaldImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/myproject/klasy/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/myproject/klasy/ZadanieMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/myproject/typydanych/TypyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/myproject/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/myproject/App.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../tarr2020java6" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XZ9RmicBSXVwe6c937V1sgg8eJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tarr2020java6" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.sdacademy.myproject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ZadanieMain">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.myproject.App" />
+      <module name="myproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdacademy.myproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="myproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfejsyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.myproject.interfejsy.InterfejsyMain" />
+      <module name="myproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdacademy.myproject.interfejsy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetodyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.myproject.MetodyMain" />
+      <module name="myproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdacademy.myproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mlotek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.myproject.Mlotek" />
+      <module name="myproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdacademy.myproject.Mlotek" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZadanieMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.myproject.klasy.ZadanieMain" />
+      <module name="myproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdacademy.myproject.klasy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ZadanieMain" />
+        <item itemvalue="Application.InterfejsyMain" />
+        <item itemvalue="Application.MetodyMain" />
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.Mlotek" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f70112e2-a20b-4a07-aecd-b742063e74d4" name="Default Changelist" comment="" />
+      <created>1581242743973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581242743973</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="751" y="49" key="#App_(1)" timestamp="1581254029679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="751" y="49" key="#App_(1)/0.0.1366.728@0.0.1366.728" timestamp="1581254029679" />
+    <state x="275" y="26" key="#Live_Templates" timestamp="1581252197778">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="26" key="#Live_Templates/0.0.1366.728@0.0.1366.728" timestamp="1581252197778" />
+    <state x="767" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1581767996899">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="767" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581767996899" />
+    <state x="343" y="0" key="CommitChangelistDialog2" timestamp="1581259420141">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="343" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581259420141" />
+    <state x="926" y="149" key="FileChooserDialogImpl" timestamp="1581243894310">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="926" y="149" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581243894310" />
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom" timestamp="1581775346759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581775346759" />
+    <state width="1323" height="114" key="GridCell.Tab.0.center" timestamp="1581775346759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581775346759" />
+    <state width="1323" height="114" key="GridCell.Tab.0.left" timestamp="1581775346743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581775346743" />
+    <state width="1323" height="114" key="GridCell.Tab.0.right" timestamp="1581775346759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581775346759" />
+    <state x="696" y="128" key="NewModule_or_Project.wizard" timestamp="1581243896731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="696" y="128" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1581243896731" />
+    <state x="-11" y="0" key="SettingsEditor" timestamp="1581763068415">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-11" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581763068415" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1581259383938">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581259383938" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1581259341196">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581259341196" />
+    <state x="494" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581252873992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1581252873992" />
+    <state x="754" y="131" key="extract.method.dialog" timestamp="1581254095582">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="754" y="131" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1581254095582" />
+    <state x="387" y="156" key="git4idea.merge.GitPullDialog" timestamp="1581775320976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="156" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1581775320976" />
+    <state x="131" y="91" key="new project wizard" timestamp="1581243426013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="91" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1581243426013" />
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1581769285284">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1581769285284" />
+    <state x="625" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581774260976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="625" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581774260976" />
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.idea" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/9d4a3d803b02155918ecac0473bd180d" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Jpa/java6-jpa-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KinDark-Domowe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KotlinWprowadzenie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java6-jdbc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jpa-Spring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kadry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myproject2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myproject3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simple-jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simple-spring-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simple-spring-master/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simple-spring-master2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simple-spring-master3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simple-spring-master4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/start" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tarr2019java6-design-pattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tarr2019java6-tdd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tarr2020java6" vcs="Git" />
+  </component>
+</project>
